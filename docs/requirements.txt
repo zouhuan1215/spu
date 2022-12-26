@@ -13,5 +13,5 @@ sphinx-markdown-tables==0.0.17
 pytablewriter==0.64.2
 linkify-it-py==2.0.0
 mdutils==1.4.0
-spu
+spu==0.3.1b2
 pydata-sphinx-theme
